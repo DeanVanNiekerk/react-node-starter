@@ -1,6 +1,6 @@
 # React Nodejs Starter
 
-This is a start application with the below features:
+This is a starter application with the below tech/features:
 
 ### Client
 - React
@@ -12,3 +12,30 @@ This is a start application with the below features:
 ### Server
 - Nodejs
 - Express
+
+
+## Instructions
+
+Install
+```bash
+npm install
+```
+
+Dev
+```bash
+npm run dev
+```
+
+Build
+```bash
+npm run build
+```
+
+Test
+```bash
+npm run test
+npm run test:watch
+npm run test:coverage
+```
+
+
