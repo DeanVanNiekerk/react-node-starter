@@ -1,5 +1,7 @@
 # React Nodejs Starter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/DeanVanNiekerk/react-node-starter.svg)](https://greenkeeper.io/)
+
 This is a starter application with the below tech/features:
 
 ### Client
