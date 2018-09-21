@@ -1,5 +1,6 @@
 # React Nodejs Starter
 
+[![Build Status](https://travis-ci.org/DeanVanNiekerk/react-node-starter.svg?branch=master)](https://travis-ci.org/DeanVanNiekerk/react-node-starter)
 [![Greenkeeper badge](https://badges.greenkeeper.io/DeanVanNiekerk/react-node-starter.svg)](https://greenkeeper.io/)
 
 This is a starter application with the below tech/features:
